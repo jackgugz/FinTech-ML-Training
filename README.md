@@ -13,3 +13,4 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Hi! I'm Yumo, yr2 QF. I'm interested in the application of ML in trading. I like singing and outdoor activities!
