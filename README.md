@@ -13,3 +13,10 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Ray Chng
+Y3 Economics and Business Analytics Double Major
+ML interest: Applications on financial asset classes, particularly commodities
+Hobbies: Football/Table Tennis, Film photog
+Fun fact: On SEP at a province in Canada you have probably never heard before
+
