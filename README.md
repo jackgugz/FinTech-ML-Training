@@ -13,3 +13,6 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Hi friends my name is Duofeng and I am a yr2 BzA student. I am a basketball fan and a petrolhead. I want to
+learn more about machine learning. Fun fact: I can swim all 4 strokes of swimming. My favourite car is an Audi A6 Allroad.
