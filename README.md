@@ -13,3 +13,7 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Yang JiAn Year 2 Business analytics
+ML Interest: FInance related
+Hobbies: Basketball
+Fun fact: I am 1.9m tall but i actually dont want to be so tall
