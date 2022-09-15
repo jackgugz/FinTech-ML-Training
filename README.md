@@ -13,3 +13,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Yeo Shu Heng, Year 1 BZA
+
+I am interested in learning more on how ML can be applied within finance, especially for trading.
+My interests include swimming, travelling and the outdoors.
