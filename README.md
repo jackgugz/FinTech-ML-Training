@@ -13,3 +13,10 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+1. Name: Andreas Lukita
+2. Year: Y3S1
+3. Course: Business Administration
+4. ML Interest: NLP and CV
+5. Hobbies: Gym and Fitness
+6. Fun facts: I watch European football and have been supporting Real Madrid for 12 years
