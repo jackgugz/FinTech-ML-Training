@@ -1,5 +1,10 @@
 # FinTech-ML-Training
 
+Yang JiAn, Year 2 Business Analytics
+ML Interest: Finance Related
+Hobbies: Basketball
+Fun Fact: I am 1.9m tall, but I dont want to be so tall
+
 Instructions:
 
 1. Fork this repo to your github account
