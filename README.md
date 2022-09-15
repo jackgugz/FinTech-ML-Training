@@ -14,4 +14,5 @@ Instructions:
 
 Self-Introduction Section:
 
-Yo Sup guys its df
+Hi friends my name is Duofeng and I am a yr2 BzA student. I am a basketball fan and a petrolhead. I want to
+learn more about machine learning.
