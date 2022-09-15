@@ -13,3 +13,7 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Name: Gavin Goh
+Year 1 CS
+Interested in NLP and Computer Vision, mainly to see how it can be applied to various fields
+Hobbies: Running, Exercising :-)
