@@ -1,5 +1,6 @@
 # FinTech-ML-Training
 
+
 Instructions:
 
 1. Fork this repo to your github account
@@ -13,3 +14,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Yuen Jia Jie
+Year 2 Business Analytics
+ML Interest: Algorithmic trading, Application of ML, NLP, Deep Learning on Finance
+Fun Facts: I am allergic to Bird's Nest. I hate cheese.
