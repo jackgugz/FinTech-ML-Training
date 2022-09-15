@@ -13,3 +13,4 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Alexius Pooh, Year 2, Business Analytics & Management, Portfolio Optimisation & Algo tradining, I enjoy playing Poker, Touch Rugby & drinking.
