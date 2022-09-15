@@ -13,3 +13,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+1. Zhang Zhikai
+2. Year 3, Computer Science
+3. Interested in Computer Vision and broad finance applications
+4. Hobbies: Basetball
