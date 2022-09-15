@@ -13,3 +13,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Hi my name is Daniel Wang
+I'm a Y1 Computer Science Student
+Interested in the general applications of machine learning in the finance industry
+Hobbies: Singing
+Staying in Sheares Hall
