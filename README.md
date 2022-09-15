@@ -1,5 +1,10 @@
 # FinTech-ML-Training
 
+Yuen Jia Jie
+Year 2 Business Analytics
+ML Interest: Algorithmic trading, Application of ML, NLP, Deep Learning on Finance
+Fun Facts: I am allergic to Bird's Nest. I hate cheese.
+
 Instructions:
 
 1. Fork this repo to your github account
