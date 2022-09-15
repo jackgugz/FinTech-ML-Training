@@ -13,3 +13,11 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Name: Justin Hoe Jia Jie
+Year: 3
+Course: Computer Science
+ML interest: Financial Modelling, Algorithmic Trading 
+Hobbies: music(EDM ALT INDIE), runs, travelling (kinda broke tho soo ....)
+Fun facts: On an internship at London Stock Exchange Group this semester
+
+Look forward to meeting and learning from all of you! :D 
