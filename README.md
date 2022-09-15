@@ -13,3 +13,17 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+- Name: 
+    Timotius Jason
+- Year: 
+    3
+- Major: 
+    Engineering Science
+- ML interests: 
+    - Algorithmic Trading
+    - Time Series Forecasting
+- Hobbies: 
+    - Playing games
+    - Watching youtube, kdramas, and football
+- Fun fact: 
+    I'm from Indonesia! Let me know if you want me to teach you some Indo words :D
