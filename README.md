@@ -1,5 +1,11 @@
 # FinTech-ML-Training
 
+My name is Maxim Yam, Year 2 Business Analytics. 
+No specific ML interest but I would love to learn more about NLP. 
+Some of my hobbies include touch rugby, coffee and cafe hopping.
+
+
+
 Instructions:
 
 1. Fork this repo to your github account
