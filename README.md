@@ -16,3 +16,6 @@ Self-Introduction Section:
 Huang Xuan
 Year 2 quantitative finance student
 stay in RC4
+interest: playing guitar, watching F1
+fun fact: first time using git
+
