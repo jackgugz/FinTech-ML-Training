@@ -13,3 +13,6 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Huang Xuan
+Year 2 quantitative finance student
+stay in RC4
