@@ -13,3 +13,11 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Name: Garrick Teo 
+Year, Course: Year 3, Data Science and Analytics, seond majoring in Econs
+ML Interest: Algo Trading, Quant, Portfolio Construction, NLP Sentiment Analysis
+Hobbies: Football, Badminton, Reading, Travelling
+Fun Fact: Activated 2 Fire Engines cooking bacon before 
+
+Hope to learn from all of you guys!
