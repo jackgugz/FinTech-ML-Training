@@ -1,15 +1,13 @@
 # FinTech-ML-Training
 
-Instructions:
+## Self-Introduction
 
-1. Fork this repo to your github account
-2. Clone this repo to your local PC
-3. Create a branch named "YourName-ML-Training" on your own repo
-4. Edit this file to include your name, year, course, ML interest, hobbies, fun facts etc...
-5. Commit and push to branch created in step 3
-6. Merge branch with master on your own repo
-7. Create a Pull Request(PR) to the main repo (jackgugz/FinTech-ML-Training)
-8. Read two others' PRs, comment and interact :D
-9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
+Hello! My name is _Ian_. I am a Year 2 Computer Science and Statistics student, and my interests as far as ML goes are more towards financial modelling and algorithmic trading.
 
-Self-Introduction Section:
+A fun fact about myself is that I used to drive competitive go-kart in the past _(when I had time lol)_.
+
+Looking forward to meeting you all!
+
+## Other info
+
+I am relatively new to the world of Machine Learning, so I am looking forward to meeting everyone!
