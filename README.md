@@ -16,4 +16,4 @@ Self-Introduction Section:\
 Name: Mario Francisco Montana\
 Course: Y2 Quantitative Finance\
 ML interest: applications of ml in finance\
-Hobbies: Basketball, Gym, Netflix\
+Hobbies: Basketball, Gym, Netflix
