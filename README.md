@@ -13,3 +13,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+- Name: Ng Zi Hao Joseph, Year 3, Mech Eng & BBA ML
+- Interest: NLP and ML in Finance :o
+- Hobbies: Water Sports, Building models (Gundams/Lego), Mountain Hiking
+- Fun Facts: Just trying to get through this sem :'), I can read Korean but I have no idea what it means mostly. Also I colour code my apps on my phone....
