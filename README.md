@@ -12,8 +12,8 @@ Instructions:
 8. Read two others' PRs, comment and interact :D
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
-Self-Introduction Section:
-Name: Mario Francisco Montana
-Course: Y2 Quantitative Finance
-ML interest: applications of ml in finance
-Hobbies: Basketball, Gym, Netflix
+Self-Introduction Section:\
+Name: Mario Francisco Montana\
+Course: Y2 Quantitative Finance\
+ML interest: applications of ml in finance\
+Hobbies: Basketball, Gym, Netflix\
