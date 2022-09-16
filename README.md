@@ -13,3 +13,11 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+
+Name: Tiong Jackson
+
+Course: Y2 Physics with 2nd Major in DSA
+
+ML Interest: General Applications of ML
+
+Fun Fact: I enjoy cycling
