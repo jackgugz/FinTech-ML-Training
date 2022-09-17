@@ -13,3 +13,5 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Hi, my name is Eric, Y3 Data Science student. Fun fact about me; I enjoy badminton, and sometimes puns like "I wish I was your derivative so I can lie tangent to your curves".
+I'm looking forward to learning more about deep learning and ML applications in FinTech, as well as algorithmic trading!
