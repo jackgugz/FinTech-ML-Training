@@ -12,4 +12,8 @@ Instructions:
 8. Read two others' PRs, comment and interact :D
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
-Self-Introduction Section:
+### Self-Introduction Section:
+Hi I'm Drustan! I'm a Year 1 Computer Science student interested in Algorithmic Trading. I like playing Dota and Tennis when I have time. I also recently started learning the Violin, which has been a struggle :")
+Fun fact: I can juggle 3 tennis balls.
+
+That's all!
