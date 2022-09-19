@@ -13,3 +13,6 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Hello, my name is Ivan. I am a Y1 CS student, and my hobby is watching sad movies and crying myself to sleep.
+I have past experience with NLP, and I'm looking towards Algorithmic and Quant trading.
+A fun fact about myself is that I am willing to join a cult for marginally better grades. :)) 
