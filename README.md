@@ -13,3 +13,4 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Raman Gupta - Y1 - CS - NLP and BZ.Analytics - Skating, Gaming - CS1101S Contest Winner 2nd Place
