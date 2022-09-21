@@ -13,3 +13,8 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Name: Anthony Tamzil
+Year: 1
+Course: Computer Science
+ML Interest: NLP
+Hobbies: Gaming, rock-climbing, F1
