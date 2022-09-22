@@ -13,3 +13,5 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Heyy I'm Licong, a year 1 computer science student. I'm still looking to explore my interest
+in ML. My hobbies are basketball and volleyball. I look forward to working with yall soon :)
